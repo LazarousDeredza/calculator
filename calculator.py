@@ -3,4 +3,4 @@ b=4
 
 total =a + b
 
-print(total)
+print(f"sum = {total}")
